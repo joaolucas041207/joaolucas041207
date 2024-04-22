@@ -1,6 +1,6 @@
 # Projeto Duarte 
 
-Esse prjeto é feito para quem se interessa por beck-end e outras áreas, também para quem vai começar o cuso agora ter uma noção basica sobre oque vai se tratar o curso.
+Esse projeto é feito para quem se interessa por beck-end e outras áreas, também para quem vai começar o cuso agora ter uma noção basica sobre oque vai se tratar o curso.
 
 
 # Olá, eu sou o João Lucas Duarte! 👋
